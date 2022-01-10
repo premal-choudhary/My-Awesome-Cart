@@ -1,0 +1,1 @@
+this is the static file in blog
